@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5053" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1552" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EditVaultItemViewController">
+            <connections>
+                <outlet property="_accountLabel" destination="171" id="UYN-bR-DXC"/>
+                <outlet property="_accountTextField" destination="172" id="175"/>
+                <outlet property="_categoryLabel" destination="127" id="Gdi-Gs-Gox"/>
+                <outlet property="_categoryTextField" destination="126" id="rRF-dR-qbr"/>
+                <outlet property="_iconImageView" destination="166" id="167"/>
+                <outlet property="_iconLabel" destination="165" id="IkQ-PW-5kF"/>
+                <outlet property="_notesLabel" destination="118" id="kaR-Ne-D8c"/>
+                <outlet property="_notesTextView" destination="116" id="147"/>
+                <outlet property="_passwordLabel" destination="122" id="AP7-4g-bFM"/>
+                <outlet property="_passwordTextField" destination="121" id="148"/>
+                <outlet property="_scrollView" destination="114" id="149"/>
+                <outlet property="_tapIconLabel" destination="168" id="sct-qb-ncK"/>
+                <outlet property="_titleLabel" destination="117" id="goc-7X-tKs"/>
+                <outlet property="_titleTextField" destination="125" id="vAA-7s-1Lj"/>
+                <outlet property="_urlLabel" destination="120" id="Rel-hf-g7y"/>
+                <outlet property="_urlTextField" destination="119" id="151"/>
+                <outlet property="_userNameTextField" destination="123" id="152"/>
+                <outlet property="_usernameLabel" destination="124" id="WM1-CV-4dF"/>
+                <outlet property="view" destination="114" id="176"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsVerticalScrollIndicator="NO" id="114">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="770"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="115" customClass="UIControl">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="777"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="addVaultItemBg.jpg" id="128">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="777"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Category" lineBreakMode="tailTruncation" minimumFontSize="10" id="127">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Category Name..." minimumFontSize="17" clearButtonMode="always" id="126">
+                            <rect key="frame" x="5" y="47" width="310" height="31"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="words" keyboardAppearance="alert" returnKeyType="done"/>
+                            <connections>
+                                <action selector="textFieldPressDone:" destination="-1" eventType="editingDidEndOnExit" id="137"/>
+                                <outlet property="delegate" destination="-1" id="135"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Title" lineBreakMode="tailTruncation" minimumFontSize="10" id="117">
+                            <rect key="frame" x="0.0" y="86" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Title Name..." minimumFontSize="17" clearButtonMode="always" id="125">
+                            <rect key="frame" x="5" y="133" width="310" height="31"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="words" keyboardAppearance="alert" returnKeyType="done"/>
+                            <connections>
+                                <action selector="textFieldPressDone:" destination="-1" eventType="editingDidEndOnExit" id="140"/>
+                                <outlet property="delegate" destination="-1" id="133"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Account" lineBreakMode="tailTruncation" minimumFontSize="10" id="171">
+                            <rect key="frame" x="0.0" y="172" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Account Number..." minimumFontSize="17" clearButtonMode="always" id="172">
+                            <rect key="frame" x="5" y="219" width="310" height="31"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="words" keyboardAppearance="alert" returnKeyType="done"/>
+                            <connections>
+                                <action selector="textFieldPressDone:" destination="-1" eventType="editingDidEndOnExit" id="174"/>
+                                <outlet property="delegate" destination="-1" id="173"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Username" lineBreakMode="tailTruncation" minimumFontSize="10" id="124">
+                            <rect key="frame" x="0.0" y="258" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Username..." minimumFontSize="17" clearButtonMode="always" id="123">
+                            <rect key="frame" x="5" y="305" width="310" height="31"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" keyboardAppearance="alert" returnKeyType="done"/>
+                            <connections>
+                                <action selector="textFieldPressDone:" destination="-1" eventType="editingDidEndOnExit" id="139"/>
+                                <outlet property="delegate" destination="-1" id="130"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Password" lineBreakMode="tailTruncation" minimumFontSize="10" id="122">
+                            <rect key="frame" x="0.0" y="344" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Password..." minimumFontSize="17" clearButtonMode="always" id="121">
+                            <rect key="frame" x="5" y="391" width="310" height="31"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" keyboardAppearance="alert" returnKeyType="done"/>
+                            <connections>
+                                <action selector="textFieldPressDone:" destination="-1" eventType="editingDidEndOnExit" id="138"/>
+                                <outlet property="delegate" destination="-1" id="134"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" URL" lineBreakMode="tailTruncation" minimumFontSize="10" id="120">
+                            <rect key="frame" x="0.0" y="430" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter URL..." minimumFontSize="17" clearButtonMode="always" id="119">
+                            <rect key="frame" x="5" y="477" width="310" height="31"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" keyboardType="URL" keyboardAppearance="alert" returnKeyType="done"/>
+                            <connections>
+                                <action selector="textFieldPressDone:" destination="-1" eventType="editingDidEndOnExit" id="136"/>
+                                <outlet property="delegate" destination="-1" id="131"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Notes" lineBreakMode="tailTruncation" minimumFontSize="10" id="118">
+                            <rect key="frame" x="0.0" y="516" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" alpha="0.5" contentMode="scaleToFill" id="116">
+                            <rect key="frame" x="5" y="563" width="310" height="93"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences" keyboardAppearance="alert"/>
+                            <connections>
+                                <outlet property="delegate" destination="-1" id="132"/>
+                            </connections>
+                        </textView>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text=" Icon" lineBreakMode="tailTruncation" minimumFontSize="10" id="165">
+                            <rect key="frame" x="0.0" y="664" width="320" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.36078431370000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Verdana-BoldItalic" family="Verdana" pointSize="23"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="StopIcon.png" id="166">
+                            <rect key="frame" x="5" y="708" width="64" height="64"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text="Tap the Icon..." lineBreakMode="tailTruncation" minimumFontSize="10" id="168">
+                            <rect key="frame" x="77" y="716" width="161" height="40"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Verdana-Bold" family="Verdana" pointSize="24"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                            <color key="shadowColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <size key="shadowOffset" width="2" height="2"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="169">
+                            <rect key="frame" x="286" y="349" width="29" height="29"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" backgroundImage="image115.png">
+                                <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="generatePassword:" destination="-1" eventType="touchUpInside" id="170"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <connections>
+                        <action selector="dismissKeyboardOnTap:" destination="-1" eventType="touchUpInside" id="JQx-iY-3VG"/>
+                    </connections>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.47807367699999997" green="0.67515396900000002" blue="0.78464302009999998" alpha="1" colorSpace="calibratedRGB"/>
+            <inset key="contentInset" minX="0.0" minY="0.0" maxX="0.0" maxY="777"/>
+            <connections>
+                <outlet property="delegate" destination="-1" id="129"/>
+            </connections>
+        </scrollView>
+        <viewController id="4" customClass="EditVaultItemViewController">
+            <extendedEdge key="edgesForExtendedLayout"/>
+            <navigationItem key="navigationItem" title="Edit Vault Item" id="20"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="black" prompted="NO"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <simulatedOrientationMetrics key="simulatedOrientationMetrics"/>
+            <nil key="simulatedDestinationMetrics"/>
+        </viewController>
+    </objects>
+    <resources>
+        <image name="StopIcon.png" width="32" height="32"/>
+        <image name="addVaultItemBg.jpg" width="320" height="480"/>
+        <image name="image115.png" width="64" height="64"/>
+    </resources>
+</document>

@@ -1,0 +1,28 @@
+<<!>>Password Vault enables you the opportunity to create as many unique vaults as you would like; be sure to use descriptive names to better identify a specific vault.<<!>>
+<<!>>When viewing any page on the web via Password Vault, you can tap the username and password icons located at the top of the page to easily paste into any text fields on the web page you are viewing.<<!>>
+<<!>>After making edits to a vault entry, be sure to tap the notepad icon in the upper right portion of the screen and then tap "Submit" to apply your changes before navigating away.<<!>>
+<<!>>When creating a vault entry, don't forget about selecting a representative icon by scrolling to the bottom of the page and tapping the displayed icon.<<!>>
+<<!>>From the home page, you can select the auto-lock feature to setup an automatic inactivity timeout, which upon firing will return the user to the home page, further protecting your data.<<!>>
+<<!>>Password Vault makes use of 128-bit encryption technology so that you can rest assured, knowing that your password information is safe and secure.<<!>>
+<<!>>Be sure to make use of the search bar when viewing the main vault entry page to avoid lengthy scrolling and for quick retrieval of a vault entry.<<!>>
+<<!>>When creating a vault entry, you can randomly generate a stronger, hack-resistant password by tapping the info button to the right of the password field.<<!>>
+<<!>>Password Vault gives you the ability to change your master password for any vault by tapping the info button to the right of the vault name when viewing the "Load Vault" page.<<!>>
+<<!>>If you are confused about how a specific page or feature might work, tap the question mark icon at the top left of the screen to get more details.<<!>>
+<<!>>When creating a new vault, make sure your password is between 8 - 24 characters long and that your vault name is between 4 - 16 characters long; once those requirements are satisifed the "Create Vault" button will activate.<<!>>
+<<!>>To add a new vault entry to an existing vault, tap on the "+" button located in the upper right portion of the screen on the main vault tableview page.<<!>>
+<<!>>When adding a new vault entry, you must at least enter a category and title in order to save the new entry.<<!>>
+<<!>>Vault entries are divided into categories and then sorted alphabetically in an effort to better identify and organize where a vault entry will appear.<<!>>
+<<!>>To make changes to an existing vault entry, simply tap the row that contains the vault entry you wish to change, which will navigate to the "Edit" page where you can then make changes.<<!>>
+<<!>>To take advantage of a vault entry's "URL" field, tap on any vault entry and then tap again on the world icon located in the upper right portion of the screen; this will automatically open up a web browser to the specific page identified by your vault entry.<<!>>
+<<!>>If you must navigate away from the web browser for any reason, you may resume where you left off by tapping on the forward icon rather than the world icon located in the upper right portion of the screen; tapping on the world icon would reset the web browser to point at the specified entry URL again.<<!>>
+<<!>>As an alternative method to delete a vault entry, tap on any entry from the main vault page and then tap on the notepad icon located in the upper right portion of the screen, and finally, select "Delete".<<!>>
+<<!>>To delete an entire vault, navigate to the "Load Vault" page and then tap the notepad icon in the upper right portion of the screen which will enable edit mode after which you can click on the red "-" icon to delete the vault.<<!>>
+<<!>>Be sure to read all of the tips in order to grasp a better understanding of the "Password Vault" app and all of its features.<<!>>
+<<!>>When an auto-lock time has been specified, any input action (tapping on a button, adding vault entries, making edits, navigating between pages, etc.) will reset the current timeout, thereby extending the time at which the app will automatically lock, returning you to the home page.<<!>>
+<<!>>When adding a new vault entry, you can save that entry by tapping on the notepad icon in the upper right portion of the screen and then selecting "Submit".<<!>>
+<<!>>If you have made edits to a vault entry, but wish to discard those changes, simply tap on the back button located in the upper left portion of the screen and then select "Proceed" to back out of the "Edit" page, thereby losing any temporary changes that were made.<<!>>
+<<!>>To delete a vault entry from a vault, while viewing your entries on the main vault page, tap the notepad icon in the upper right portion of the screen to enter edit mode after which you can click on the red "-" icon to delete the vault item.<<!>>
+<<!>>It is good to know, that for any destructive action, the action will not be performed until you confirm that taking the action is what you really want to do.<<!>>
+<<!>>When viewing your vault entries on the main vault page, it is possible to sort your vault entries by category, alphabetically, in either ascending or descending fashion; to do this, simply tap on the up or down arrow button in the upper right portion of the screen.<<!>>
+<<!>>When searching for a particular vault entry, you may cancel the search results at anytime by tapping the "x" button that appears within the bounds of the search bar text field.<<!>>
+<<!>>When searching for a particular vault entry that yields more than one result, you may cycle through the search results by tapping the "cycle" button that appears within the bounds of the search bar text field.

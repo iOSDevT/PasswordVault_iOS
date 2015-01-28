@@ -1,0 +1,965 @@
+<strings>
+	<string id="tapIconLabel">
+		<en>Tap the Icon</en>
+		<es>Toque en el icono</es>
+		<ru>Нажмите на иконку</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditInvalidFieldTitle">
+		<en>Edit Vault Item</en>
+		<es>Editar elemento bóveda</es>
+		<ru>Редактировать элемент с шестом</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="newVaultViewControllerHint">
+		<en>From this form you can create a new password vault object by entering a name for the vault and then a unique passowrd to protect your data.  The vault name must be between %d and %d characters long, while the vault password must be at least %d and no more than %d characters long.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="settingsSelectTipFontLabel">
+		<en>Select a Tip Font</en>
+		<es>Seleccione una fuente de punta</es>
+		<ru>Выберите шрифт наконечника</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+    <string id="settingsSelectFontSizeLabel">
+		<en>Select Font Size</en>
+		<es>Seleccione el tamaño de fuente</es>
+		<ru>Выберите размер шрифта</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="notesLabel">
+		<en>Notes</en>
+		<es>Notas</es>
+		<ru>Примечания</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertAddUnsubmittedChanges">
+		<en>You have unsubmitted changes, are you sure you want to continue?</en>
+		<es>Tiene cambios no enviados, ¿estás seguro de que desea continuar?</es>
+		<ru>У вас есть несохраненные изменения, вы уверены, что хотите продолжить?</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="iconSelectionViewController">
+		<en>Choose Item Icon</en>
+		<es>Elegir icono de elemento</es>
+		<ru>Выберите иконку объекта</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditUnsubmittedChanges">
+		<en>You have unsubmitted changes, are you sure you want to continue?</en>
+		<es>Tiene cambios no enviados, ¿estás seguro de que desea continuar?</es>
+		<ru>Вы должны unsubmitted изменения , вы уверены, что хотите продолжить?</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertChangePasswordError">
+		<en>You must correclty confirm your new password before the password can be changed.</en>
+		<es>Debe confirmar correclty su nueva contraseña antes de que la contraseña se puede cambiar.</es>
+		<ru>Вы должны correclty подтверждения нового пароля передпароль может быть изменен.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditInvalidField">
+		<en>You must have a valid category and title set for this vault item.</en>
+		<es>Usted debe tener una categoría y el título conjunto válido para este material bóveda.</es>
+		<ru>Вы должны иметь действительный категории и название набора для этого хранилища пункта.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="autoLockViewControllerHint">
+		<en>Select an inactivity timeout after which the vault will lock and you will have to re-enter your password.</en>
+		<es>Seleccione un tiempo de espera de inactividad después del cual la bóveda se bloqueará y tendrá que volver a introducir su contraseña</es>
+		<ru>Выберите бездействия таймаут, после которого хранилище будет блокировать и вам придется повторно вводить пароль .</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="tipTitle">
+		<en>Tip:</en>
+		<es>Sugerencia:</es>
+		<ru>Совет:</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="reenterVaultPassword">
+		<en>Confirm Vault Password</en>
+		<es>Confirmar Contraseña del Blindaje</es>
+		<ru>Подтвердите хранилища пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="renameVaultErrorMessage">
+		<en>There was an unknown error that occurred when attempting to rename the vault: %@.</en>
+		<es>Hubo un error desconocido que se produjo al intentar cambiar el nombre de la bóveda: %@.</es>
+		<ru>Был неизвестная ошибка, возникавшая при попытке переименовать хранилище: %@.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="addVaultItemViewControllerHint">
+		<en>Create a vault entry by filling out the fields below; 'Category' and 'Title' are mandatory fields.  Don't forget to select a representative icon for your entry at the bottom of this form.</en>
+		<es>Cree una entrada de la bóveda rellenando los campos abajo; 'Categoría' y 'Título' son campos obligatorios. No se olvide de seleccionar un icono representativo de su entrada en la parte inferior de este formulario.</es>
+		<ru>Создать запись в хранилище , заполнив поля ниже; 'Категория' и 'Название', обязательны для заполнения. Не забудьте выбрать представительную значок для вашего вступления в нижней части этой формы.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="duplicateVaultSuccessMessage">
+		<en>The selected vault was successfully duplicated with the following name:%@%@.</en>
+		<es>La bóveda seleccionada se duplicó con éxito con el siguiente nombre:%@%@.</es>
+		<ru>Выбранный хранилище успешно дублируется со следующим названием:%@%@.
+</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertDeleteVaultTitle">
+		<en>Delete Password Vault</en>
+		<es>Eliminar Password Vault</es>
+		<ru>Удалить кода доступа хранилище</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="submitButton">
+		<en>Submit</en>
+		<es>Enviar</es>
+		<ru>Отправить</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="titleLabel">
+		<en>Title</en>
+		<es>Título</es>
+		<ru>Название</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="useLettersLabel">
+		<en>Use Letters...</en>
+		<es>Usar letras...</es>
+		<ru>Письма...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="autoLockViewController">
+		<en>Set Auto-Lock</en>
+		<es>Establezca Bloqueo automático</es>
+		<ru>Набор блокировке</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="overwriteRenameFile">
+		<en>Vault Already Exists</en>
+		<es>Bóveda ya existe</es>
+		<ru>Запись уже существует</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertChangePasswordError2">
+		<en>You must enter the correct password for the selected vault in order to change the password for that vault.</en>
+		<es>Debe introducir la contraseña correcta del blindaje seleccionado con el fin de cambiar la contraseña de esa bóveda.</es>
+		<ru>Вы должны ввести правильный пароль для выбранного хранилища , чтобы изменить пароль для этого хранилище .</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="webViewControllerHint">
+		<en>You can navigate the web by using the navigation buttons at the bottom of this form.  Also, you may use the 'Username' and 'Password' buttons above to copy your data to the pasteboard which can then be pasted into the apporpriate fields on a particular web page.</en>
+		<es>Puede navegar por la web mediante el uso de los botones de navegación en la parte inferior de este formulario. Además, es posible utilizar los botones de 'usuario' y 'contraseña' de arriba para copiar los datos en la mesa de trabajo que luego se pueden pegar en los campos apropiados; de una página web en particular.</es>
+		<ru>Вы можете перемещаться по веб с помощью навигационных кнопок в нижней части этой формы. Кроме того, вы можете использовать 'Имя' и кнопки 'Пароль' выше скопировать ваши данные на монтажном столе, который затем может быть вставлен в apporpriate полей на определенной веб-страницы.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="urlLabel">
+		<en>URL</en>
+		<es>URL</es>
+		<ru>Ссылка</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="enterCurrentPassword">
+		<en>(Enter Current Password)</en>
+		<es>(Introduzca la contraseña actual)</es>
+		<ru>(Введите текущий пароль)</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="enterVaultPassword">
+		<en>Enter Vault Password</en>
+		<es>Ingrese Caja fuerte de contraseñas</es>
+		<ru>Введите хранилища пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertDeletItemTitle">
+		<en>Delete Vault Item</en>
+		<es>Eliminar Bóveda artículo</es>
+		<ru>Удалить хранилища пункт</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="confirmNewPasswordPlaceholder">
+		<en>Confirm New Password</en>
+		<es>Confirmar nueva contraseña</es>
+		<ru>Подтвердите новый пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="testString">
+		<en>This is only a test and can be ignored as this is not a real string!</en>
+		<es>Esto es sólo una prueba y se puede ignorar, ya que no es una cadena de verdad!</es>
+		<ru>Это всего лишь тест и могут быть проигнорированы, так как это не является реальным строка!</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="renameVaultSuccessMessage">
+		<en>The selected vault was successfully renamed as the following:%@%@.</en>
+		<es>La bóveda seleccionada ha sido renombrado con éxito como la siguiente:%@%@.</es>
+		<ru>Выбранный хранилище успешно переименован в следующем:%@%@.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="passwordVaultViewControllerHint">
+		<en>This form contains all of your vault data ordered by 'Category'.  To view or make changes to an entry, simply tap on the entry you wish to view.  Also, new entries may be created by tapping on the 'Add' button in the upper right corner.</en>
+		<es>Este formulario contiene todos los datos del almacén ordenados por 'Categoría'. Para ver o realizar cambios en una entrada, basta con pinchar en la entrada que desea ver. Además, las nuevas entradas se pueden crear pulsando sobre el botón 'Añadir' en la esquina superior derecha.</es>
+		<ru>Эта форма содержит все ваши данные хранилища заказанных 'Категория'. Чтобы просмотреть или внести изменения в записи, просто нажмите на записи, который вы хотите посмотреть. Кроме того, новые записи могут быть созданы, нажав на кнопку 'Добавить' в правом верхнем углу.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="webViewController">
+		<en>Vault Web</en>
+		<es>Bóveda web</es>
+		<ru>Интернет</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertAddUnsubmittedChangesTitle">
+		<en>Add Vault Item</en>
+		<es>Añadir elemento bóveda</es>
+		<ru>Добавить хранилища пункт</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="loadVaultTableViewFooter">
+		<en>Password Vault Files</en>
+		<es>Contraseña archivos Bóveda</es>
+		<ru>Пароль хранилища файлов</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="passwordGenerateViewControllerHint">
+		<en>Generate a secure password by utilizing the various options below which will determine the format of the final password to be generated. Once your options are the way you like them, tap the Generate button below to randomly create a password satisfying the constraints specified. When you are happy with the password that was generated, tap the Accept button to finalize the password and apply it to your currently selected vault item.</en>
+		<es>Generar una contraseña segura mediante la utilización de las diferentes opciones debajo de la cual determinará el formato de la contraseña de final que se genera. Una vez que sus opciones son la forma que más te gusta, haga clic en el botón Generar a continuación para crear aleatoriamente una contraseña que satisface las restricciones especificadas. Cuando estés satisfecho con la contraseña que se ha generado, pulse el botón Aceptar para finalizar la contraseña y aplicarlo a su artículo bóveda seleccionada.</es>
+		<ru>Генерация безопасный пароль путем использования различных вариантов ниже, которые будут определять формат конечного пароль, которые будут созданы. После того, как ваши варианты, как вам нравится их, нажмите на кнопку Создать ниже, чтобы случайно создать пароль, удовлетворяющий ограничения, заданные. Когда вы счастливы с паролем, который был создан, нажмите кнопку Accept для завершения пароль и применить ее к выбранной вашего пункта хранилища.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertAddInvalidFieldTitle">
+		<en>Add Vault Item</en>
+		<es>Añadir elemento bóveda</es>
+		<ru>Добавить хранилища пункт</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="renameVaultMessage">
+		<en>Enter New Vault Name</en>
+		<es>Introduzca el nuevo nombre de la bóveda</es>
+		<ru>Введите новое имя хранилища</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="cancelButton">
+		<en>Cancel</en>
+		<es>Cancelar</es>
+		<ru>Отменить</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="renameVaultError">
+		<en>Rename Vault Error</en>
+		<es>Cambiar el nombre de error bóveda</es>
+		<ru>Переименовать ошибку хранилища</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="loadVaultTableViewHeader">
+		<en>Files available for load</en>
+		<es>Archivos disponibles para carga</es>
+		<ru>Файлы, доступные для загрузки</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="overwriteDuplicateFile">
+		<en>Vault Already Exists</en>
+		<es>Bóveda ya existe</es>
+		<ru>Запись уже существует</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="invalidNameDuplicateFile">
+		<en>Invalid Name</en>
+		<es>Nombre no válido</es>
+		<ru>Неверное имя</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="invalidNameDuplicateMessage">
+		<en>You must enter a valid name.</en>
+		<es>Debe ingresar un nombre válido.</es>
+		<ru>Вы должны ввести действительное имя.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="invalidNameRenameFile">
+		<en>Invalid Name</en>
+		<es>Nombre no válido</es>
+		<ru>Неверное имя</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="invalidNameRenameMessage">
+		<en>You must enter a valid name.</en>
+		<es>Debe ingresar un nombre válido.</es>
+		<ru>Вы должны ввести действительное имя.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="applyButton">
+		<en>Apply</en>
+		<es>Aplicar</es>
+		<ru>Применить</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditAreYouSureDelete">
+		<en>Are you sure you want to delete the item: %@?</en>
+		<es>¿Seguro que quieres eliminar el tema: %@?</es>
+		<ru>Вы уверены, что хотите удалить объявление: %@?</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="duplicateVaultMessage">
+		<en>Enter Vault Name</en>
+		<es>Ingrese nombre de la bóveda</es>
+		<ru>Введите имя хранилища</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="duplicateVault">
+		<en>Duplicate Vault</en>
+		<es>bóveda duplicate</es>
+		<ru>Дубликат хранилище</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertNewPasswordFailure">
+		<en>By default, passwords must be at least %d characters long and no more than %d characters long.</en>
+		<es>Por defecto, las contraseñas deben tener al menos %d caracteres de largo y no más de %d caracteres de largo.</es>
+		<ru>По умолчанию пароли должны быть длиной не менее %d символов и не более %d символов.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="editVaultItemViewController">
+		<en>Edit Item</en>
+		<es>Editar elemento</es>
+		<ru>Редактировать</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEnterNewPasswordTitle">
+		<en>Enter New Password</en>
+		<es>Introduzca nueva contraseña</es>
+		<ru>Введите новый пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="useLowercaseLabel">
+		<en>Use Lowercase...</en>
+		<es>Utilice minúsculas...</es>
+		<ru>Нижний регистр...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertChangePasswordError2Title">
+		<en>Change Password Error</en>
+		<es>Error de cambio de contraseña</es>
+		<ru>Ошибка Изменить пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="overwriteFile">
+		<en>Overwrite File</en>
+		<es>Sobrescribir archivo</es>
+		<ru>Переписать файл</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="useUppercaseLabel">
+		<en>Use Uppercase...</en>
+		<es>Usar mayúsculas...</es>
+		<ru>Прописные...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="passwordGenerateViewController">
+		<en>Generate Password</en>
+		<es>Generar contraseña</es>
+		<ru>Генерация пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="settingsSelectLanguageLabel">
+		<en>Select a Language</en>
+		<es>Seleccione un idioma</es>
+		<ru>Выберите язык</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertChangePasswordSuccessTitle">
+		<en>Change Password Success</en>
+		<es>Éxito Cambiar contraseña</es>
+		<ru>Успех Изменить пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="loadVaultViewController">
+		<en>Load Vault</en>
+		<es>Bóveda de carga</es>
+		<ru>Нагрузка с шестом</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="settingsViewController">
+		<en>App Settings</en>
+		<es>Configuración de la aplicación</es>
+		<ru>Настройки приложения</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="settingsViewControllerHint">
+		<en>Change various options to determine the appearance of your password vault.</en>
+		<es>Cambie varias opciones para determinar la apariencia de su bóveda de contraseña</es>
+		<ru>Измените различные варианты, чтобы определить внешний вид вашего пароля хранилище</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertDeleteVault">
+		<en>Are you sure you want to delete the vault: %@?</en>
+		<es>¿Seguro que quieres eliminar la bóveda: %@?</es>
+		<ru>Вы уверены, что хотите удалить хранилище: %@?</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditUnsubmittedChangesTitle">
+		<en>Edit Vault Item</en>
+		<es>Editar elemento bóveda</es>
+		<ru>Редактировать элемент с шестом</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="enterNewPasswordPlaceholder">
+		<en>Enter New Password</en>
+		<es>Introduzca nueva contraseña</es>
+		<ru>Введите новый пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="usernameLabel">
+		<en>Username</en>
+		<es>Nombre de usuario</es>
+		<ru>Имя пользователя</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="overwriteRenameFileMessage">
+		<en>You must enter a unique name when attempting to rename a vault.</en>
+		<es>Debe introducir un nombre único al intentar cambiar el nombre de una bóveda.</es>
+		<ru>Вы должны ввести уникальное имя при попытке переименовать хранилище.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="doneButton">
+		<en>Done</en>
+		<es>Terminado</es>
+		<ru>Готовые</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="acceptButton">
+		<en>Accept</en>
+		<es>Aceptar</es>
+		<ru>Принять</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="renameVaultSuccess">
+		<en>Rename Vault Success</en>
+		<es>Renombrar éxito bóveda</es>
+		<ru>Переименовать успех хранилища</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="generatePasswordButton">
+		<en>Generate</en>
+		<es>Generar</es>
+		<ru>Генерация</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditConfirmChanges">
+		<en>Are you sure you want to apply the changes to item: %@?</en>
+		<es>¿Seguro que deseas aplicar los cambios al artículo: %@?</es>
+		<ru>Вы уверены, что хотите применить изменения к пункту: %@?</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="passwordLabel">
+		<en>Password</en>
+		<es>Contraseña</es>
+		<ru>Пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="searchBarPlaceholder">
+		<en>Search for an item...</en>
+		<es>Busca un artículo...</es>
+		<ru>Поиск элемента ...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="createVaultButton">
+		<en>Create Vault</en>
+		<es>Crear Blindaje</es>
+		<ru>Создать хранилище</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertNewPasswordFailureTitle">
+		<en>Enter New Password Failure</en>
+		<es>Introduzca nuevo fracaso contraseña</es>
+		<ru>Введите новый провал пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="newVaultViewController">
+		<en>New Vault</en>
+		<es>Nueva Bóveda</es>
+		<ru>Новый свод</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="loadVaultButton">
+		<en>Load Vault</en>
+		<es>Bóveda de carga</es>
+		<ru>Нагрузка с шестом</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="duplicateVaultSuccess">
+		<en>Duplicate Vault Success</en>
+		<es>Éxito bóveda Duplicate</es>
+		<ru>Дубликат успех с шестом</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditConfirmChangesTitle">
+		<en>Submit Vault Item</en>
+		<es>Enviar artículo bóveda</es>
+		<ru>Отправить хранилища пункт</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="okButton">
+		<en>Ok</en>
+		<es>Okay</es>
+		<ru>Хорошо</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="enterVaultName">
+		<en>Enter Vault Name</en>
+		<es>Ingrese nombre de la bóveda</es>
+		<ru>Введите имя хранилища</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="deleteButton">
+		<en>Delete</en>
+		<es>Eliminar</es>
+		<ru>Удалить</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="accountLabel">
+		<en>Account</en>
+		<es>Cuenta</es>
+		<ru>счет</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertEditAreYouSureDeleteTitle">
+		<en>Edit Vault Item</en>
+		<es>Editar elemento bóveda</es>
+		<ru>Редактировать элемент с шестом</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="renameVault">
+		<en>Rename Vault</en>
+		<es>Cambiar el nombre de la bóveda</es>
+		<ru>Переименовать хранилище</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="categoryLabel">
+		<en>Category</en>
+		<es>Categoría</es>
+		<ru>Категория</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="autoLockVaultButton">
+		<en>Auto Lock</en>
+		<es>Bloqueo automático</es>
+		<ru>Автоматическая блокировка</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="settingsButton">
+		<en>Settings</en>
+		<es>Ajustes</es>
+		<ru>Настройки</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="overwriteDuplicateFileMessage">
+		<en>You must enter a unique name when attempting to duplicate a vault.</en>
+		<es>Debe introducir un nombre único al intentar duplicar una bóveda.</es>
+		<ru>Вы должны ввести уникальное имя при попытке дублировать хранилище.
+</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="useNumbersLabel">
+		<en>Use Numbers...</en>
+		<es>Use los números...</es>
+		<ru>числа...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="minutes">
+		<en>mins</en>
+		<es>minutos</es>
+		<ru>минут</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertChangePasswordErrorTitle">
+		<en>Change Password Error</en>
+		<es>Error de cambio de contraseña</es>
+		<ru>Ошибка Изменить пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="overwriteFileMessage">
+		<en>A vault with the same name already exists. Do you want to overwrite the existing vault?</en>
+		<es>Una bóveda con el mismo nombre ya existe. ¿Quieres sobrescribir la bóveda existente?</es>
+		<ru>Хранилище с таким именем уже существует. Вы хотите, чтобы заменить существующий свод?
+</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="newVaultButton">
+		<en>New Vault</en>
+		<es>Nueva Bóveda</es>
+		<ru>Новый свод</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertAddInvalidField">
+		<en>You must have a valid category and title set for this vault item.</en>
+		<es>Usted debe tener una categoría y el título conjunto válido para este material bóveda.</es>
+		<ru>Вы должны иметь действительный категории и название набора для этого хранилища пункта.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="duplicateVaultError">
+		<en>Duplicate Vault Error</en>
+		<es>Error bóveda Duplicate</es>
+		<ru>Дубликат Ошибка хранилище</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="hintTitle">
+		<en>Hint</en>
+		<es>Sugerencia</es>
+		<ru>Подсказка</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="iconLabel">
+		<en>Icon</en>
+		<es>Icono</es>
+		<ru>Иконка</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="duplicateVaultErrorMessage">
+		<en>There was an unknown error that occurred when attempting to duplicate the vault: %@.</en>
+		<es>Hubo un error desconocido que se produjo al intentar duplicar la bóveda: %@.</es>
+		<ru>Был неизвестная ошибка, возникавшая при попытке дублировать хранилище: %@.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertChangePasswordSuccess">
+		<en>The vault has been successfully updated.</en>
+		<es>La bóveda se ha actualizado correctamente.</es>
+		<ru>Свод был успешно обновлен.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="iconSelectionViewControllerHint">
+		<en>Select an icon to represent your vault entry by tapping on the icon you wish to use.  To remove an icon from an existing entry, simply tap the 'Stop' button in the upper right corner.</en>
+		<es>Seleccione un icono para representar su entrada bóveda pulsando sobre el icono que desea utilizar. Para eliminar un icono de una entrada existente, simplemente pulse el botón de parada en la esquina superior derecha.</es>
+		<ru>Выберите значок, чтобы представить свой ​​запись хранилища, нажав на значок, который вы хотите использовать. Чтобы удалить значок с существующей записи, просто нажмите кнопку 'Стоп' в правом верхнем углу.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="alertDeleteItem">
+		<en>Are you sure you want to delete the item: %@?</en>
+		<es>¿Seguro que quieres eliminar el tema: %@?</es>
+		<ru>Вы уверены, что хотите удалить объявление: %@?</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="useSymbolsLabel">
+		<en>Use Symbols...</en>
+		<es>Utilizar símbolos...</es>
+		<ru>Символы...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="loadingStatus">
+		<en>Loading...</en>
+		<es>Cargando...</es>
+		<ru>Загрузка...</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="proceedButton">
+		<en>Proceed</en>
+		<es>Proceda</es>
+		<ru>Продолжать</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="editVaultPassword">
+		<en>Edit Vault Password</en>
+		<es>Editar Caja fuerte de contraseñas</es>
+		<ru>Редактировать свод пароль</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="mainViewController">
+		<en>Password Vault</en>
+		<es>Caja fuerte de contraseñas</es>
+		<ru>блокировка паролем</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="none">
+		<en>None</en>
+		<es>Ninguno</es>
+		<ru>Ни один</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="editVaultItemViewControllerHint">
+		<en>Edit the fields to modify an existing vault entry; don't forget to save your changes by tapping the edit button and choosing 'Submit' before navigating away from this page.  You may also delete the current entry by tapping the edit button and choosing 'Delete'.</en>
+		<es>Edite los campos para modificar una entrada bóveda existente; no te olvides de guardar los cambios pulsando el botón editar y elegir 'Enviar' antes de salir de esta página. También puede borrar la entrada actual pulsando el botón editar y elegir 'Eliminar'.</es>
+		<ru>Отредактируйте поля для изменения существующей записи хранилища; не забудьте сохранить изменения, нажав на кнопку редактирования и выбрав 'Отправить' Прежде чем перейти на эту страницу. Вы также можете удалить текущую запись, нажав на кнопку редактирования и выбрав 'Удалить'.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="addVaultItemViewController">
+		<en>Add Item</en>
+		<es>Añadir artículo</es>
+		<ru>Добавить пункт</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="loadVaultViewControllerHint">
+		<en>Select the vault that you wish to load, you must enter the password that you used when you first created the vault.</en>
+		<es>Seleccione la bóveda que desea cargar, debe introducir la contraseña que utilizó cuando creó la bóveda.</es>
+		<ru>Выберите хранилище , которое вы хотите загрузить , необходимо ввести пароль, который вы использовали при первой создано хранилище.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+	<string id="settingsSelectFontLabel">
+		<en>Select a Font</en>
+		<es>Seleccione una fuente</es>
+		<ru>Выберите шрифт</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</string>
+    <string id="fontSizeExtraSmall">
+        <en>Extra Small</en>
+        <es>Diminuta</es>
+        <ru>Супер небольшой</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+    </string>
+    <string id="fontSizeSmall">
+        <en>Small</en>
+        <es>Súper pequeño</es>
+        <ru>Малый</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+    </string>
+    <string id="fontSizeMedium">
+        <en>Medium</en>
+        <es>Medio</es>
+        <ru>Средний</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+    </string>
+    <string id="fontSizeLarge">
+        <en>Large</en>
+        <es>Grande</es>
+        <ru>Большой</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+    </string>
+    <string id="fontSizeExtraLarge">
+        <en>Extra Large</en>
+        <es>Súper grande</es>
+        <ru>Супер большой</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+    </string>
+</strings>

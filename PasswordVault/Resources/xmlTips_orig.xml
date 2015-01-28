@@ -1,0 +1,226 @@
+<tips>
+	<tip_0>
+		<en>Password Vault enables you the opportunity to create as many unique vaults as you would like; be sure to use descriptive names to better identify a specific vault.</en>
+		<es>Caja fuerte de contraseñas que te permite la posibilidad de crear tantas bóvedas únicas como le gustaría; asegúrese de usar nombres descriptivos para identificar mejor una bóveda específica.</es>
+		<ru>Код доступа с шестом позволяет вам возможность создать столько уникальных своды, как вы хотели бы; не забудьте использовать описательные имена, чтобы лучше идентифицировать конкретный свод.</ru>
+		<de>fart</de>
+		<fr></fr>
+		<it></it>
+	</tip_0>
+	<tip_1>
+		<en>When viewing any page on the web via Password Vault, you can tap the username and password icons located at the top of the page to easily paste into any text fields on the web page you are viewing.</en>
+		<es>Si usted está confundido acerca de cómo podría funcionar una página específica o característica, pulse el icono de signo de interrogación en la parte superior izquierda de la pantalla para obtener más detalles.</es>
+		<ru>При просмотре любой страницы в Интернете с помощью пароля хранилище, вы можете нажать на имя пользователя и пароль пиктограмм, расположенных в верхней части страницы, чтобы легко вставить в любые текстовые поля на веб-странице, которую вы просматриваете.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_1>
+	<tip_2>
+		<en>After making edits to a vault entry, be sure to tap the notepad icon in the upper right portion of the screen and then tap "Submit" to apply your changes before navigating away.</en>
+		<es>Al crear una nueva bóveda, asegúrese de que su contraseña es entre 8 - 24 caracteres de longitud y que su nombre de la bóveda es de entre 4 - 16 caracteres de longitud; una vez que esos requisitos son satisifed el botón "Crear Vault" se activará.</es>
+		<ru>После внесения изменений в запись хранилища, обязательно нажмите значок блокнота в верхней правой части экрана, а затем нажмите 'Отправить', чтобы применить изменения Прежде чем перейти на.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_2>
+	<tip_3>
+		<en>When creating a vault entry, don't forget about selecting a representative icon by scrolling to the bottom of the page and tapping the displayed icon.</en>
+		<es>Para agregar una nueva entrada de la bóveda a una bóveda existente, pulse sobre el botón "+" situado en la parte superior derecha de la pantalla de la página principal tableview bóveda.</es>
+		<ru>При создании записи в хранилище, не забывайте о выборе репрезентативной значок, прокручивая в нижней части страницы и нажав показанное изображение.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_3>
+	<tip_4>
+		<en>From the home page, you can select the auto-lock feature to setup an automatic inactivity timeout, which upon firing will return the user to the home page, further protecting your data.</en>
+		<es>Al agregar una nueva entrada de la bóveda, debe por lo menos entrar en una categoría y el título con el fin de guardar la nueva entrada.</es>
+		<ru>С домашней страницы, вы можете выбрать автоблокировки функцию к установкеавтоматического тайм-аута неактивности, которая при обжиге возвращает пользователя на главную страницу, дополнительную защиту данных.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_4>
+	<tip_5>
+		<en>Password Vault makes use of 128-bit encryption technology so that you can rest assured, knowing that your password information is safe and secure.</en>
+		<es>Vault entradas se dividen en categorías y luego ordenados alfabéticamente en un esfuerzo por identificar y organizar en la que aparecerá una entrada de bóveda mejor.</es>
+		<ru>Код доступа с шестом использует 128 - битную технологию шифрования, так что вы можете быть уверены, зная, что ваша информация пароля является надежным и безопасным.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_5>
+	<tip_6>
+		<en>Be sure to make use of the search bar when viewing the main vault entry page to avoid lengthy scrolling and for quick retrieval of a vault entry.</en>
+		<es>Para realizar cambios en una entrada bóveda existente, simplemente toque la fila que contiene la entrada de la bóveda que desea cambiar, que se ve a la página "Editar" en el que a continuación, puede realizar cambios.</es>
+		<ru>Будьте уверены, чтобы сделать использование строке поиска при просмотре главной страницы входа хранилище, чтобы избежать длительной прокрутки и для быстрого поиска записи хранилища.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_6>
+	<tip_7>
+		<en>When creating a vault entry, you can randomly generate a stronger, hack-resistant password by tapping the info button to the right of the password field.</en>
+		<es>Para tomar ventaja de campo "URL" de una entrada de la bóveda, toque en cualquier entrada de la bóveda y luego pulse de nuevo en el icono mundial situado en la parte superior derecha de la pantalla; esto abrirá automáticamente un navegador web a la página específica identificada por su entrada bóveda.</es>
+		<ru>При создании записи в хранилище, вы можете случайным образомсильнее, взломать устойчивый пароль, нажав на кнопку Информация справа от поля ввода пароля.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_7>
+	<tip_8>
+		<en>Password Vault gives you the ability to change your master password for any vault by tapping the info button to the right of the vault name when viewing the "Load Vault" page.</en>
+		<es>Si tiene que desplazarse fuera del navegador web por cualquier razón, puede continuar donde lo dejó un toque en el icono de avance en lugar del icono del mundo situado en la parte superior derecha de la pantalla; toque en el icono de mundo sería reiniciar el navegador web para señalar de nuevo a la entrada "URL" especificada.</es>
+		<ru>Код доступа с шестом дает возможность изменять свой ​​мастер-пароль для любого хранилища, нажав на кнопку Информация справа от имени хранилища при просмотре страницы нагрузки хранилища.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_8>
+	<tip_9>
+		<en>If you are confused about how a specific page or feature might work, tap the question mark icon at the top left of the screen to get more details.</en>
+		<es>Como un método alternativo para eliminar una entrada de la bóveda, toque en cualquier entrada de la página principal bóveda y pulse sobre el icono del bloc de notas situado en la parte superior derecha de la pantalla, y, por último, seleccione "Eliminar".</es>
+		<ru>Если вы не уверены, как конкретная страница или функция может работать, нажмите знак вопроса в верхнем левом углу экрана, чтобы получить более подробную информацию.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_9>
+	<tip_10>
+		<en>When creating a new vault, make sure your password is between 8 - 24 characters long and that your vault name is between 4 - 16 characters long; once those requirements are satisifed the "Create Vault" button will activate.</en>
+		<es>Para eliminar una bóveda, vaya a la página " Cargar Vault" y después pulse en el icono de bloc de notas en la parte superior derecha de la pantalla que permitirá el modo de edición después de lo cual usted puede hacer clic en el rojo "-" icono para eliminar la bóveda.</es>
+		<ru>При создании нового хранилища, убедитесь, что ваш пароль длиной от 8 до 24 символов и, что ваше имя хранилища составляет от 4 до 16 символов; как только эти требования satisifed кнопку создать хранилище будет активировать.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_10>
+	<tip_11>
+		<en>To add a new vault entry to an existing vault, tap on the "+" button located in the upper right portion of the screen on the main vault tableview page.</en>
+		<es>Asegúrese de leer todos los consejos con el fin de captar una mejor comprensión de la aplicación "Password Vault" y todas sus características.</es>
+		<ru>Чтобы добавить новую запись хранилища для существующего хранилища, нажмите на кнопку плюс, расположенной в правой верхней части экрана на главной хранилище таблицы просмотра страницы.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_11>
+	<tip_12>
+		<en>When adding a new vault entry, you must at least enter a category and title in order to save the new entry.</en>
+		<es>Cuando se ha especificado un tiempo de bloqueo automático, cualquier acción de entrada (pulsando en un botón, la adición de entradas de la bóveda, hacer ediciones, navegar entre páginas, etc) se restablecerá el tiempo de espera actual, ampliando así el momento en el que la aplicación se bloquee automáticamente, volviendo a la página principal.</es>
+		<ru>При добавлении новой записи хранилища, вы должны, по крайней мере ввести категорию и звание, чтобы спасти новую запись.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_12>
+	<tip_13>
+		<en>Vault entries are divided into categories and then sorted alphabetically in an effort to better identify and organize where a vault entry will appear.</en>
+		<es>Al agregar una nueva entrada de la bóveda, puede guardar esa entrada pulsando en el icono del bloc de notas en la parte superior derecha de la pantalla y luego seleccionar "Enviar".</es>
+		<ru>Все записи хранилища делятся на категории, а затем сортируются в алфавитном порядке, с тем чтобы лучше определить и организовать, где появитсязапись с шестом.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_13>
+	<tip_14>
+		<en>To make changes to an existing vault entry, simply tap the row that contains the vault entry you wish to change, which will navigate to the "Edit" page where you can then make changes.</en>
+		<es>Si ha hecho algún cambio en una entrada de la bóveda, pero deseo de desprenderse de tales cambios, basta con pinchar en el botón Atrás situado en la parte superior izquierda de la pantalla y luego seleccione "Continuar" para retirarse de la página "Editar", perdiendo así los cambios temporales que se hicieron.</es>
+		<ru>Чтобы внести изменения в существующую запись хранилища, просто нажмите на строку, содержащую запись хранилища вы хотите изменить, который будет ориентироваться на страницу редактирования, где вы можете внести изменения.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_14>
+	<tip_15>
+		<en>To take advantage of a vault entry's "URL" field, tap on any vault entry and then tap again on the world icon located in the upper right portion of the screen; this will automatically open up a web browser to the specific page identified by your vault entry.</en>
+		<es>Para borrar una entrada de la bóveda de un blindaje, mientras ve sus entradas en la página principal de la bóveda, pulse el icono de bloc de notas en la parte superior derecha de la pantalla para entrar en el modo de edición después de que usted puede hacer clic en el rojo "-" icono para borrar el elemento bóveda.</es>
+		<ru>Для того чтобы воспользоваться URL поле отдельной записи в, нажмите на любой записи хранилища, а затем снова нажмите на значок мирового находится в правой верхней части экрана; это автоматически откроет веб-браузер к соответствующей странице идентифицированной вашей записи хранилища.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_15>
+	<tip_16>
+		<en>If you must navigate away from the web browser for any reason, you may resume where you left off by tapping on the forward icon rather than the world icon located in the upper right portion of the screen; tapping on the world icon would reset the web browser to point at the specified entry URL again.</en>
+		<es>Es bueno saber, que para cualquier acción destructiva, no se llevará a cabo la acción hasta que se confirme que el tomar la acción es lo que realmente quieres hacer.</es>
+		<ru>Если вы должны перейти от веб-браузера по любой причине, вы можете возобновить, где вы остановились, нажав на переднем значок, а не иконы мирового находится в правой верхней части экрана; нажав на значок мировой сбросить бы веб-браузер, чтобы указать на указанный URL входа снова.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_16>
+	<tip_17>
+		<en>As an alternative method to delete a vault entry, tap on any entry from the main vault page and then tap on the notepad icon located in the upper right portion of the screen, and finally, select "Delete".</en>
+		<es>Al ver las entradas de la bóveda en la página principal de la bóveda, es posible ordenar las entradas de la bóveda por categoría, por orden alfabético, en orden ascendente o descendente de la moda; Para ello, basta con pinchar en el botón de flecha arriba o abajo en la parte superior derecha de la pantalla.</es>
+		<ru>В качестве альтернативного способа, чтобы удалить запись хранилища, нажмите на любой записи с главной страницы хранилища, а затем нажмите на иконку блокнота, расположенной в правой верхней части экрана, и, наконец, выберите удалить.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_17>
+	<tip_18>
+		<en>To delete an entire vault, navigate to the "Load Vault" page and then tap the notepad icon in the upper right portion of the screen which will enable edit mode after which you can click on the red "-" icon to delete the vault.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda en particular, puede cancelar los resultados de la búsqueda en cualquier momento pulsando el botón "x" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>Чтобы удалить весь свод, перейдите на страницу нагрузка Ваул а затем коснитесь значка книжка в верхней правой части экрана, которая будет включить режим редактирования, после чего вы можете нажать на минус красным значком удалить хранилище.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_18>
+	<tip_19>
+		<en>Be sure to read all of the tips in order to grasp a better understanding of the "Password Vault" app and all of its features.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>Обязательно прочитайте все советы, чтобы понять лучше понять хранилища применения секретного кода и все его особенности.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_19>
+	<tip_20>
+		<en>When an auto-lock time has been specified, any input action (tapping on a button, adding vault entries, making edits, navigating between pages, etc.) will reset the current timeout, thereby extending the time at which the app will automatically lock, returning you to the home page.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>Когда был заданавтоблокировки время, любой вход действия - нажав на кнопку, добавлении записей хранилища, делая правки, навигации между страницами, и так далее - сбросит текущий тайм-аут, тем самым расширяя время, в которое приложение будет автоматически блокировать, чтобы вернуться на главную страницу.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_20>
+	<tip_21>
+		<en>When adding a new vault entry, you can save that entry by tapping on the notepad icon in the upper right portion of the screen and then selecting "Submit".</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>При добавлении новой записи хранилища, вы можете сохранить эту запись, нажав на значок блокнота в правой верхней части экрана, а затем выбрав представить.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_21>
+	<tip_22>
+		<en>If you have made edits to a vault entry, but wish to discard those changes, simply tap on the back button located in the upper left portion of the screen and then select "Proceed" to back out of the "Edit" page, thereby losing any temporary changes that were made.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>Если вы сделали необходимые изменения в записи хранилища, но хотите избавиться от этих изменений, просто нажмите на кнопку задней, расположенной в верхней левой части экрана, а затем выберите приступить к спине из страницы редактирования, тем самым теряя все временные изменения, которые были сделаны.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_22>
+	<tip_23>
+		<en>To delete a vault entry from a vault, while viewing your entries on the main vault page, tap the notepad icon in the upper right portion of the screen to enter edit mode after which you can click on the red "-" icon to delete the vault item.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>Чтобы удалить запись из хранилища из хранилища, во время просмотра ваших записей на главной странице хранилища, нажмите значок книжка в верхней правой части экрана, чтобы перейти в режим редактирования, после чего вы можете нажать на минус красным значком, чтобы удалить элемент хранилища.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_23>
+	<tip_24>
+		<en>It is good to know, that for any destructive action, the action will not be performed until you confirm that taking the action is what you really want to do.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>Это хорошо, чтобы понять, что для любого разрушительного действия, действие не будет выполняться, пока вы не убедитесь, что предпринимая действия является то, что вы действительно хотите сделать.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_24>
+	<tip_25>
+		<en>When viewing your vault entries on the main vault page, it is possible to sort your vault entries by category, alphabetically, in either ascending or descending fashion; to do this, simply tap on the up or down arrow button in the upper right portion of the screen.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>При просмотре записи хранилища на главной странице хранилища, можно отсортировать записи хранилища по категориям, алфавиту, по возрастанию или по убыванию моду; сделать это, просто нажмите на кнопку со стрелкой вверх или вниз в верхней правой части экрана.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_25>
+	<tip_26>
+		<en>When searching for a particular vault entry, you may cancel the search results at anytime by tapping the "x" button that appears within the bounds of the search bar text field.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>При поиске конкретного элемента хранилища, вы можете отменить результаты поиска в любое время, нажавкнопку, которая появляется в пределах текстового поля строке поиска отменить.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_26>
+	<tip_27>
+		<en>When searching for a particular vault entry that yields more than one result, you may cycle through the search results by tapping the "cycle" button that appears within the bounds of the search bar text field.</en>
+		<es>Durante la búsqueda de una entrada de la bóveda particular que produce más de un resultado, se puede realizar un ciclo a través de los resultados de la búsqueda pulsando el botón "ciclo" que aparece dentro de los límites del campo de texto de la barra de búsqueda.</es>
+		<ru>При поиске конкретного элемента хранилища, что дает более одного результата, вы можете цикл по результатам поиска, нажав на кнопку цикла, который появляется в пределах текстового поля поиска.</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+	</tip_27>
+</tips>

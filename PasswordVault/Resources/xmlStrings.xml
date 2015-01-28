@@ -1,0 +1,1329 @@
+<strings>
+	<string id="tapIconLabel">
+		<en>Tap the Icon</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditInvalidFieldTitle">
+		<en>Edit Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="newVaultViewControllerHint">
+		<en>From this form you can create a new password vault object by entering a name for the vault and then a unique passowrd to protect your data.  The vault name must be between %d and %d characters long, while the vault password must be at least %d and no more than %d characters long.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="settingsSelectTipFontLabel">
+		<en>Select a Tip Font</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+    <string id="settingsSelectFontSizeLabel">
+		<en>Select Font Size</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="notesLabel">
+		<en>Notes</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertAddUnsubmittedChanges">
+		<en>You have unsubmitted changes, are you sure you want to continue?</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="iconSelectionViewController">
+		<en>Choose Item Icon</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditUnsubmittedChanges">
+		<en>You have unsubmitted changes, are you sure you want to continue?</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertChangePasswordError">
+		<en>You must correclty confirm your new password before the password can be changed.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditInvalidField">
+		<en>You must have a valid category and title set for this vault item.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="autoLockViewControllerHint">
+		<en>Select an inactivity timeout after which the vault will lock and you will have to re-enter your password.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="tipTitle">
+		<en>Tip:</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="reenterVaultPassword">
+		<en>Confirm Vault Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="renameVaultErrorMessage">
+		<en>There was an unknown error that occurred when attempting to rename the vault: %@.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="addVaultItemViewControllerHint">
+		<en>Create a vault entry by filling out the fields below; it should be noted that 'Category' and 'Title' are mandatory fields and they must contain a value.  Don't forget to select a representative icon for your entry at the bottom of this form.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="duplicateVaultSuccessMessage">
+		<en>The selected vault was successfully duplicated with the following name:%@%@.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertDeleteVaultTitle">
+		<en>Delete Password Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="submitButton">
+		<en>Submit</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="titleLabel">
+		<en>Title</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="useLettersLabel">
+		<en>Use Letters...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="autoLockViewController">
+		<en>Set Auto-Lock</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="overwriteRenameFile">
+		<en>Vault Already Exists</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertChangePasswordError2">
+		<en>You must enter the correct password for the selected vault in order to change the password for that vault.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="webViewControllerHint">
+		<en>You can navigate the web by using the navigation buttons at the bottom of this form.  Also, you may use the 'Username' and 'Password' buttons above to copy your data to the pasteboard which can then be pasted into the apporpriate fields on a particular web page.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="urlLabel">
+		<en>URL</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="enterCurrentPassword">
+		<en>(Enter Current Password)</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="enterVaultPassword">
+		<en>Enter Vault Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertDeletItemTitle">
+		<en>Delete Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="confirmNewPasswordPlaceholder">
+		<en>Confirm New Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="testString">
+		<en>This is only a test and can be ignored as this is not a real string!</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="renameVaultSuccessMessage">
+		<en>The selected vault was successfully renamed as the following:%@%@.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="passwordVaultViewControllerHint">
+		<en>This form contains all of your vault data ordered by 'Category'.  To view or make changes to an entry, simply tap on the entry you wish to view.  Also, new entries may be created by tapping on the 'Add' button in the upper right corner.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="webViewController">
+		<en>Vault Web</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertAddUnsubmittedChangesTitle">
+		<en>Add Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="loadVaultTableViewFooter">
+		<en>Password Vault Files</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="passwordGenerateViewControllerHint">
+		<en>Generate a secure password by utilizing the various options below which will determine the format of the final password to be generated. Once your options are the way you like them, tap the Generate button below to randomly create a password satisfying the constraints specified. When you are happy with the password that was generated, tap the Accept button to finalize the password and apply it to your currently selected vault item.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertAddInvalidFieldTitle">
+		<en>Add Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="renameVaultMessage">
+		<en>Enter New Vault Name</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="cancelButton">
+		<en>Cancel</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="renameVaultError">
+		<en>Rename Vault Error</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="loadVaultTableViewHeader">
+		<en>Files available for load</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="overwriteDuplicateFile">
+		<en>Vault Already Exists</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="invalidNameDuplicateFile">
+		<en>Invalid Name</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="invalidNameDuplicateMessage">
+		<en>You must enter a valid name.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="invalidNameRenameFile">
+		<en>Invalid Name</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="invalidNameRenameMessage">
+		<en>You must enter a valid name.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="applyButton">
+		<en>Apply</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditAreYouSureDelete">
+		<en>Are you sure you want to delete the item: %@?</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="duplicateVaultMessage">
+		<en>Enter Vault Name</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="duplicateVault">
+		<en>Duplicate Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertNewPasswordFailure">
+		<en>By default, passwords must be at least %d characters long and no more than %d characters long.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="editVaultItemViewController">
+		<en>Edit Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEnterNewPasswordTitle">
+		<en>Enter New Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="useLowercaseLabel">
+		<en>Use Lowercase...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertChangePasswordError2Title">
+		<en>Change Password Error</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="overwriteFile">
+		<en>Overwrite File</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="useUppercaseLabel">
+		<en>Use Uppercase...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="passwordGenerateViewController">
+		<en>Generate Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="settingsSelectLanguageLabel">
+		<en>Select a Language</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertChangePasswordSuccessTitle">
+		<en>Change Password Success</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="loadVaultViewController">
+		<en>Load Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="settingsViewController">
+		<en>App Settings</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="settingsViewControllerHint">
+		<en>Change various options to determine the appearance of your password vault.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertDeleteVault">
+		<en>Are you sure you want to delete the vault: %@?</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditUnsubmittedChangesTitle">
+		<en>Edit Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="enterNewPasswordPlaceholder">
+		<en>Enter New Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="usernameLabel">
+		<en>Username</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="overwriteRenameFileMessage">
+		<en>You must enter a unique name when attempting to rename a vault.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="doneButton">
+		<en>Done</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="acceptButton">
+		<en>Accept</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="renameVaultSuccess">
+		<en>Rename Vault Success</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="generatePasswordButton">
+		<en>Generate</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditConfirmChanges">
+		<en>Are you sure you want to apply the changes to item: %@?</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="passwordLabel">
+		<en>Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="searchBarPlaceholder">
+		<en>Search for an item...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="createVaultButton">
+		<en>Create Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertNewPasswordFailureTitle">
+		<en>Enter New Password Failure</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="newVaultViewController">
+		<en>New Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="loadVaultButton">
+		<en>Load Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="duplicateVaultSuccess">
+		<en>Duplicate Vault Success</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditConfirmChangesTitle">
+		<en>Submit Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="okButton">
+		<en>Ok</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="enterVaultName">
+		<en>Enter Vault Name</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="deleteButton">
+		<en>Delete</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="accountLabel">
+		<en>Account</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertEditAreYouSureDeleteTitle">
+		<en>Edit Vault Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="renameVault">
+		<en>Rename Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="categoryLabel">
+		<en>Category</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="autoLockVaultButton">
+		<en>Auto Lock</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="settingsButton">
+		<en>Settings</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="overwriteDuplicateFileMessage">
+		<en>You must enter a unique name when attempting to duplicate a vault.</en>
+		<es></es>
+		<ru>Вы должны ввести уникальное имя при попытке дублировать хранилище.
+</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="useNumbersLabel">
+		<en>Use Numbers...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="minutes">
+		<en>mins</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertChangePasswordErrorTitle">
+		<en>Change Password Error</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="overwriteFileMessage">
+		<en>A vault with the same name already exists. Do you want to overwrite the existing vault?</en>
+		<es></es>
+		<ru>Хранилище с таким именем уже существует. Вы хотите, чтобы заменить существующий свод?
+</ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="newVaultButton">
+		<en>New Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertAddInvalidField">
+		<en>You must have a valid category and title set for this vault item.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="duplicateVaultError">
+		<en>Duplicate Vault Error</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="hintTitle">
+		<en>Hint</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="iconLabel">
+		<en>Icon</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="duplicateVaultErrorMessage">
+		<en>There was an unknown error that occurred when attempting to duplicate the vault: %@.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertChangePasswordSuccess">
+		<en>The vault has been successfully updated.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="iconSelectionViewControllerHint">
+		<en>Select an icon to represent your vault entry by tapping on the icon you wish to use.  To remove an icon from an existing entry, simply tap the 'Stop' button in the upper right corner.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="alertDeleteItem">
+		<en>Are you sure you want to delete the item: %@?</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="useSymbolsLabel">
+		<en>Use Symbols...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="loadingStatus">
+		<en>Loading...</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="proceedButton">
+		<en>Proceed</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="editVaultPassword">
+		<en>Edit Vault Password</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="mainViewController">
+		<en>Password Vault</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="none">
+		<en>None</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="editVaultItemViewControllerHint">
+		<en>Edit the fields to modify an existing vault entry; don't forget to save your changes by tapping the edit button and choosing 'Submit' before navigating away from this page.  You may also delete the current entry by tapping the edit button and choosing 'Delete'.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="addVaultItemViewController">
+		<en>Add Item</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="loadVaultViewControllerHint">
+		<en>Select the vault that you wish to load, you must enter the password that you used when you first created the vault.</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+	<string id="settingsSelectFontLabel">
+		<en>Select a Font</en>
+		<es></es>
+		<ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+	</string>
+    <string id="fontSizeExtraSmall">
+        <en>Extra Small</en>
+        <es></es>
+        <ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+		<el></el>
+    </string>
+    <string id="fontSizeSmall">
+        <en>Small</en>
+        <es></es>
+        <ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+		<el></el>
+    </string>
+    <string id="fontSizeMedium">
+        <en>Medium</en>
+        <es></es>
+        <ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+		<el></el>
+    </string>
+    <string id="fontSizeLarge">
+        <en>Large</en>
+        <es></es>
+        <ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+		<el></el>
+    </string>
+    <string id="fontSizeExtraLarge">
+        <en>Extra Large</en>
+        <es></es>
+        <ru></ru>
+		<de></de>
+		<fr></fr>
+		<it></it>
+		<nl></nl>
+		<el></el>
+		<ga></ga>
+		<el></el>
+    </string>
+</strings>
